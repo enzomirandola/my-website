@@ -1,0 +1,11 @@
+{
+    "description": "This is my Website",
+    "repo": "https://github.com/enzomirandola/my-website",
+    "owner": {
+        "username": "enzomirandola",
+        "email": "[devcoffebrasil@gmail.com]"
+    },
+    "record": {
+        "CNAME": "enzomirandola.github.io"
+    }
+}
